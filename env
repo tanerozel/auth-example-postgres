@@ -1,0 +1,4 @@
+AUTH0_CLIENT_ID=tNkvWZB0TM0NIBHmfFfmibRZVjC9oowK
+AUTH0_DOMAIN=taner.eu.auth0.com
+AUTH0_CLIENT_SECRET=n1pcWm5vUydAkxx_lfc8yWV1SN1VciMQhXQ3kppz_Ia-FTBOXVthNLFfRqSgin7P
+AUTH0_CALLBACK_URL=http://localhost:3000/callback
