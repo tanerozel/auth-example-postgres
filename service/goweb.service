@@ -1,0 +1,11 @@
+[Unit]
+Description=goweb
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5s
+ExecStart=/home/taner/go-works/auth0-golang-web-app/main
+WorkingDirectory=/home/taner/go-works/auth0-golang-web-app
+[Install]
+WantedBy=multi-user.target
